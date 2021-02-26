@@ -1,2 +1,2 @@
 # Face-Mask-Detection
-Face Mask Detection System in Python using OpenCV and TensorFlow. Having 96% of accuracy.
+A supervised classification model trained using open-source data sets which can classify provided images into with Mask or without Mask.
